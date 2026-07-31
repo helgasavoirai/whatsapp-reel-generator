@@ -5,16 +5,12 @@ value returned by the Groq Llama extraction step:
 
 | File | Mood | Source | License |
 |---|---|---|---|
-| `energetic-upbeat.mp3` | energetic | *[fill in — where did this come from?]* | *[fill in]* |
-| `warm-*.mp3` | warm | *[fill in]* | *[fill in]* |
-| `bold-dramatic.mp3` | bold | *[fill in]* | *[fill in]* |
-| `clean-minimal.mp3` | clean | *[fill in]* | *[fill in]* |
+| `energetic-upbeat.mp3` | energetic | Pixabay Music | Royalty-Free (Pixabay Content License) |
+| `warm-acoustic.mp3` | warm | Pixabay Music | Royalty-Free (Pixabay Content License) |
+| `bold-dramatic.mp3` | bold | Pixabay Music | Royalty-Free (Pixabay Content License) |
+| `clean-minimal.mp3` | clean | Pixabay Music | Royalty-Free (Pixabay Content License) |
 
-<!--
-Helga: please fill in the Source and License columns above before this
-goes to Rashida/Maryam — I don't have the original source of these files,
-only their filenames from testing. Common free sources: YouTube Audio
-Library, Pixabay Music, Free Music Archive (CC-licensed tracks) — if
-that's where these came from, note the exact track name/link so the
-license can be verified later if the project scales beyond internal use.
--->
+All tracks were sourced from [Pixabay](https://pixabay.com/music/), which
+provides royalty-free music free to use for commercial and non-commercial
+projects without attribution required, under the
+[Pixabay Content License](https://pixabay.com/service/license-summary/).
