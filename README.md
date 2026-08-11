@@ -150,7 +150,7 @@ Sent automatically when a trader first messages the number, or can be used as a 
 
 ## Loom walkthrough
 
-[Add link here] — 3-minute walkthrough of all 3 modes end to end, including one Hindi/Gujarati voice note test, showing the MP4 arriving back in WhatsApp.
+(https://www.loom.com/share/474c09ccbcc149a9be7b966285ad5018) — 3-minute walkthrough of all 3 modes end to end, including one Hindi/Gujarati voice note test, showing the MP4 arriving back in WhatsApp.
 
 ## Links
 
