@@ -124,7 +124,7 @@ used as a pinned/welcome message:
 ```
 
 ## Loom walkthrough
-[Add link here] — 3-minute walkthrough of all 3 modes end to end,
+(https://www.loom.com/share/474c09ccbcc149a9be7b966285ad5018) — 3-minute walkthrough of all 3 modes end to end,
 including one Hindi/Gujarati voice note test, showing the MP4 arriving
 back in WhatsApp.
 
